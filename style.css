@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    height: 2000px;
+}
+.lorem{
+    border: 5px solid blue;
+    width:500px;
+    height: 500px;
+    margin-left: 100px;
+}
+.box{
+    border: 3px solid red;
+    width: 100px;
+    height: 100px;
+}
+.box1{
+    border: 5px solid green;
+    background:orange
+
+}
+.box2{
+    border: 5px solid yellow;
+    background: green;
+}
+    
+.box3{
+    border: 5px solid purple;
+    background: linear-gradient(to right, red, yellow);   
+    top: 0px;
+    left:200px;
+    position:sticky;
+
+}   
